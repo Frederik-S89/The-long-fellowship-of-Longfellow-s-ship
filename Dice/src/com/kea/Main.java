@@ -8,5 +8,7 @@ public class Main {
 	Terning rul = new Terning();
 	rul.Random();
 
+	System.out.println("BALDERZOID IS NOT MY LEADER");
+
     }
 }
