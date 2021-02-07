@@ -3,3 +3,5 @@ git commit -m "besked"
 git push
 
 git pull
+
+:q!
